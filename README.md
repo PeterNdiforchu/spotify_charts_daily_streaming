@@ -20,12 +20,13 @@ Download the results, on the top right hand corner of the page.
 
 Import data to Tableau and build your dashboard. The end goal will be something like this:
 
-<img width="1440" alt="image" src="https://github.com/PeterNdiforchu/spotify_charts_daily_streaming/assets/76578061/f4c23c04-2489-4e36-b895-a02d7f34d77f">
+![image](https://github.com/PeterNdiforchu/spotify_charts_daily_streaming/assets/76578061/fe17f693-bc2f-4205-871c-e3a5233d74e0)
+
 
 Feel free to let me know if you need a step-by-step guide on how to build the dashboard!
 
 ### ALTERNATIVELY
 
-Use the python script in the repo to web scrape the site to extract the relevant data used to build the dashboard
+Use the Python script in the repo to web-scrape the site to extract the relevant data used to build the dashboard
 
 
